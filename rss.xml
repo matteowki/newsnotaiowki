@@ -1,0 +1,24 @@
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>NewsNotaioNextWKI</title>
+  <link>https://github.com/matteowki/newsnotaiowki</link>
+  <description>Feed RSS delle ultime notizie</description>
+  <item>
+    <title>Manuale NotaioNext v.11.2</title>
+    <link>https://wolterskluwer.sharepoint.com/:b:/t/LR_Migrazioni_NNX_VR/ES2nO80F-CRMn4YQawzJaekBipO3G3wF0Lv70ohMxNUMuA?e=UkCg5f</link>
+    <description>È stato pubblicato un nuovo aggiornamento del manuale di NotaioNext</description>
+  </item>
+  <item>
+    <title>Nuova Guida per la Registrazione Atti</title>
+    <link>notizie/notizia2.html</link>
+    <description>Disponibile una guida aggiornata per la registrazione degli atti notarili.</description>
+  </item>
+  <item>
+    <title>Evento Formativo Gratuito</title>
+    <link>notizie/notizia3.html</link>
+    <description>Partecipa all'evento formativo gratuito il 30 ottobre 2025.</description>
+  </item>
+</channel>
+</rss>
