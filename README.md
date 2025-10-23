@@ -12,7 +12,7 @@ Il sito offre:
 
 
 ## 🚀 Pubblicazione su GitHub Pages
-1. Accedi a [Manuale NotaioNext v.11.2](https://drive.google.com/file/d/1TJyEw_Io9kQJWpdnAWmnFBQsqWDVaKBW/view?usp=sharing) e crea un nuovo repository pubblico (es. `newsnotaiowki`)
+1. Accedi a [Manuale NotaioNext v.11.2](https://wolterskluwer.sharepoint.com/:b:/t/LR_Migrazioni_NNX_VR/ES2nO80F-CRMn4YQawzJaekBipO3G3wF0Lv70ohMxNUMuA?e=0E2rJo) e crea un nuovo repository pubblico (es. `newsnotaiowki`)
 2. Carica tutti i file e cartelle del sito (estrai prima il file ZIP)
 3. Vai su **Settings > Pages**
 4. In "Source" seleziona:
